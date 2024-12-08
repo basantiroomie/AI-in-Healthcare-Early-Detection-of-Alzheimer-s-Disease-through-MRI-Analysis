@@ -21,6 +21,5 @@ This project leverages AI technologies to assist in the early detection of Alzhe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/alzheimers-detection.git
-   cd alzheimers-detection
+   git https://github.com/basantiroomie/AI-in-Healthcare-Early-Detection-of-Alzheimer-s-Disease-through-MRI-Analysis.git
 ```
